@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638921389026",
+    "project_id": "contatemeantes-2880a",
+    "storage_bucket": "contatemeantes-2880a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638921389026:android:a6c17a8ac539541d20bfbb",
+        "android_client_info": {
+          "package_name": "br.com.contatemeantes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638921389026-8q1626mdqaa6p45q52htrp7nihmm5942.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwOA4JCkvuucfM_7PIVBORtpY1tr1B6P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638921389026-8q1626mdqaa6p45q52htrp7nihmm5942.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
